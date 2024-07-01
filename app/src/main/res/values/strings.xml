@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shopit</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="remove_from_cart">Remove from cart</string>
+    <string name="place_order">PLACE ORDER</string>
+    <string name="total">TOTAL</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="shipping">Shipping</string>
+    <string name="tax">Tax</string>
+    <string name="back">Back</string>
+    <string name="checkout">Checkout</string>
+    <string name="products">Products</string>
+    <string name="order_complete">Order Complete</string>
+    <string name="order_successful">Successful!</string>
+    <string name="cart_is_empty">Cart is empty</string>
+    <string name="item_added_to_cart">\'%s\' added to cart</string>
+    <plurals name="item_count">
+        <item quantity="one">"%d Item"</item>
+        <item quantity="other">"%d Items"</item>
+    </plurals>
+</resources>
