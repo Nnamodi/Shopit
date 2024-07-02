@@ -12,7 +12,7 @@
     <string name="products">Products</string>
     <string name="order_complete">Order Complete</string>
     <string name="order_successful">Successful!</string>
-    <string name="cart_is_empty">Cart is empty</string>
+    <string name="cart_is_empty">Your cart is empty</string>
     <string name="item_added_to_cart">\'%s\' added to cart</string>
     <plurals name="item_count">
         <item quantity="one">"%d Item"</item>

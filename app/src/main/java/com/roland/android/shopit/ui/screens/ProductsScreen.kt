@@ -26,6 +26,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
@@ -120,7 +121,9 @@ private fun Product(
 		)
 		Text(
 			text = "$${item.price}",
-			modifier = Modifier.padding(bottom = 20.dp)
+			modifier = Modifier
+				.padding(bottom = 20.dp)
+				.alpha(0.7f)
 		)
 	}
 }
