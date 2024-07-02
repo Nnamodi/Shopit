@@ -16,7 +16,7 @@ This shopping app is a task from HNG11 stage 1.
 
 * This project was built with only native functionalities and components and no third-party library or plugins.
 * It has three screens:
-    * `Projects screen` shows a list of products/items (statically) in a shop.
+    * `Products screen` shows a list of products/items (statically) in a shop.
     * `Checkout screen` displays a checkout button and the products added to cart for checkout.
     * `Order Successful screen` is displayed after checking out cart items.
 
